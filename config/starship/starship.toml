@@ -1,0 +1,8 @@
+# Personal Starship config (dotfiles)
+add_newline = true
+
+[directory]
+truncation_length = 4
+
+[git_branch]
+symbol = "git:"
